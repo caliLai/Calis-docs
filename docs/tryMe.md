@@ -21,14 +21,14 @@ so uh yeah I love big fluffy dogs.
 
 ## Tables are Fun
 
-|Text|Simplified Text (*In Italics*)|
-|-------|--------|
-|Due to the fact that|*because*|
-|In the event that|*when*|
-|At this point in time|*now*|
-|Obtain|*get*|
-|Subsequent|*after*|
-|In the vicinity of|*near*|
+|Text                   |Simplified Text (*In Italics*)|
+|:----------------------|:-----------------------------|
+|Due to the fact that   |*because*                     |
+|In the event that      |*when*                        |
+|At this point in time  |*now*                         |
+|Obtain                 |*get*                         |
+|Subsequent             |*after*                       |
+|In the vicinity of     |*near*                        |
 
 ### Conciseness Helps Web Readers
 If I'm hopping onto the World Wide Web to read something, you'd best bet that I expect things to be easy to read. Otherwise, 
