@@ -20,6 +20,7 @@ so uh yeah I love big fluffy dogs.
 
 
 ## Tables are Fun
+
 |Text|Simplified Text (*In Italics*)|
 |-------|--------|
 |Due to the fact that|*because*|
